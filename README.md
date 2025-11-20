@@ -1,15 +1,13 @@
 <h1 align="center">Hi there 👋 I'm Maria Eduarda</h1>
 
 <p align="center">
-  📊 Statistics & Data Science Student | 📚 Passionate about Education | 🔢 Math Enthusiast
+  📊 Statistics & Data Science Student | 📚 Education Enthusiast | 🔢 Math Lover
 </p>
 
 ---
 
 ## 🌟 About Me
-
-Hi there :) My name is **Maria Eduarda**, and I am a **Statistics and Data Science** student.  
-I’m a passionate enthusiast of education and a true lover of mathematics and exact sciences.
+I'm a **Statistics and Data Science** student passionate about education, mathematics, and the exact sciences.  
 As a lifelong learner, I’m always seeking new knowledge.
 
 ---
@@ -24,18 +22,9 @@ As a lifelong learner, I’m always seeking new knowledge.
 
 ---
 
-## 🛠️ Skills (always improving and learning more!)
-
-### 💻 Programming
-- R  
-- Python  
-- SQL  
-
-### 📈 Data Analysis & Visualization
-- Statistical analysis  
-- Exploratory data analysis  
-- Data cleaning & manipulation  
-- Creating visual narratives with data  
+## 🛠️ Skills
+- **Programming:** R, Python, SQL  
+- **Data Analysis:** statistical analysis, exploratory data analysis, data visualization 
 
 ---
 
