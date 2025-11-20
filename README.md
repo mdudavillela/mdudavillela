@@ -4,13 +4,11 @@
   📊 Statistics & Data Science Student | 📚 Education Enthusiast | 🔢 Math Lover
 </p>
 
----
 
 ## 🌟 About Me
 I'm a **Statistics and Data Science** student passionate about education, mathematics, and the exact sciences.  
 As a lifelong learner, I’m always seeking new knowledge.
 
----
 
 ## 🔗 Connect With Me
 
@@ -20,13 +18,11 @@ As a lifelong learner, I’m always seeking new knowledge.
   </a>
 </p>
 
----
 
 ## 🛠️ Skills
 - **Programming:** R, Python, SQL  
 - **Data Analysis:** statistical analysis, exploratory data analysis, data visualization 
 
----
 
 <p align="center">✨ Thanks for stopping by! Feel free to explore my repositories :)</p>
 
