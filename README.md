@@ -14,6 +14,16 @@ As a lifelong learner, I’m always seeking new knowledge.
 
 ---
 
+## 🔗 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/mevillela/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
+
+---
+
 ## 🛠️ Skills (always improving and learning more!)
 
 ### 💻 Programming
@@ -26,23 +36,6 @@ As a lifelong learner, I’m always seeking new knowledge.
 - Exploratory data analysis  
 - Data cleaning & manipulation  
 - Creating visual narratives with data  
-
----
-
-## 🔗 Connect With Me
-
-<p>
-  <a href="https://www.linkedin.com/in/mevillela/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</p>
-
----
-
-## 📌 Current Projects
-
-- 📘 Academic repositories for data analysis 
-- 🧪 Statistical explorations and visualization practice  
 
 ---
 
