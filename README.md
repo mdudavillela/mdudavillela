@@ -6,7 +6,7 @@
 
 
 ## 🌟 About Me
-I'm a **Statistics and Data Science** student passionate about education, mathematics, and the exact sciences.  
+I'm a **Statistics and Data Science** student at UNICAMP passionate about education, mathematics, and the exact sciences.  
 As a lifelong learner, I’m always seeking new knowledge.
 
 
