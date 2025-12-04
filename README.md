@@ -19,11 +19,6 @@ As a lifelong learner, I’m always seeking new knowledge.
 </p>
 
 
-## 🛠️ Skills
-- **Programming:** R, Python, SQL  
-- **Data Analysis:** statistical analysis, exploratory data analysis, data visualization 
-
-
 <p align="center">✨ Thanks for stopping by! Feel free to explore my repositories :)</p>
 
 <!---
