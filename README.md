@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I'm Maria Eduarda</h1>
+<h1 align="center">Hi there 👋 I'm Duda</h1>
 
 <p align="center">
   📊 Statistics & Data Science Student | 📚 Education Enthusiast | 🔢 Math Lover
