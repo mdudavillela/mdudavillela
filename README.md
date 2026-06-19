@@ -19,8 +19,6 @@ As a lifelong learner, I’m always seeking new knowledge.
 </p>
 
 
-<p align="center">✨ Thanks for stopping by! Feel free to explore my repositories :)</p>
-
 <!---
 Duda-VS/Duda-VS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
