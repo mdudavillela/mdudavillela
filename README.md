@@ -1,11 +1,9 @@
-<h1 align="center">Hi there 👋 I'm Duda</h1>
-
 <p align="center">
   📊 Statistics & Data Science Student
 </p>
 
 
-## 🌟 About Me
+## I'm Duda
 I'm a **Statistics and Data Science** student at UNICAMP passionate about education, mathematics, and the exact sciences.  
 As a lifelong learner, I’m always seeking new knowledge.
 
