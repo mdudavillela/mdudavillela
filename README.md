@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 I'm Duda</h1>
 
 <p align="center">
-  📊 Statistics & Data Science Student | 📚 Education Enthusiast | 🔢 Math Lover
+  📊 Statistics & Data Science Student
 </p>
 
 
