@@ -2,17 +2,11 @@
   📊 Statistics & Data Science Student
 </p>
 
-
-## Hi! I'm Maria Eduarda
 # Hi! I'm Maria Eduarda 👋
 
 Statistics & Data Science student at UNICAMP.
-
 I'm interested in data, mathematics, optimization and machine learning — mostly working with R, Python and SQL.
-
 Currently exploring optimization methods and computational mathematics.
-
-Always learning, building and occasionally breaking things.
 
 ## 🔗 Connect With Me
 
