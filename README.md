@@ -6,6 +6,7 @@
 
 Statistics & Data Science student at UNICAMP.
 I'm interested in data, mathematics, optimization and machine learning — mostly working with R, Python and SQL.
+
 Currently exploring optimization methods and computational mathematics.
 
 ## 🔗 Connect With Me
