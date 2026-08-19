@@ -17,7 +17,7 @@ Currently exploring optimization methods and computational mathematics.
 
 `Optimization` · `Computational Mathematics` · `Machine Learning` · `Data Visualization`
 
-## 🔗 Connect With Me
+## Let's Connect 👋
 
 <p>
   <a href="https://www.linkedin.com/in/mevillela/" target="_blank">
