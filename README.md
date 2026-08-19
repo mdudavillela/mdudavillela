@@ -3,10 +3,16 @@
 </p>
 
 
-## I'm Duda
-I'm a **Statistics and Data Science** student at UNICAMP passionate about education, mathematics, and the exact sciences.  
-As a lifelong learner, I’m always seeking new knowledge.
+## Hi! I'm Maria Eduarda
+# Hi! I'm Maria Eduarda 👋
 
+Statistics & Data Science student at UNICAMP.
+
+I'm interested in data, mathematics, optimization and machine learning — mostly working with R, Python and SQL.
+
+Currently exploring optimization methods and computational mathematics.
+
+Always learning, building and occasionally breaking things.
 
 ## 🔗 Connect With Me
 
