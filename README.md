@@ -9,7 +9,7 @@ I'm interested in data, mathematics, optimization and machine learning — mostl
 
 Currently exploring optimization methods and computational mathematics.
 
-## Tech I use
+## Tech
 
 `R` · `Python` · `SQL` · `Julia`
 
