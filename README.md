@@ -13,7 +13,7 @@ Currently exploring optimization methods and computational mathematics.
 
 `R` · `Python` · `SQL` · `Julia`
 
-## Let's Connect 👋
+## Let's Connect
 
 <p>
   <a href="https://www.linkedin.com/in/mevillela/" target="_blank">
