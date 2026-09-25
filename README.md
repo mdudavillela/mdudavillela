@@ -5,17 +5,13 @@
 # Hi! I'm Maria Eduarda 👋
 
 Statistics & Data Science student at UNICAMP.
-I'm interested in data, mathematics, optimization and machine learning — mostly working with R, Python, SQL and Julia.
+I'm interested in data, mathematics, optimization and machine learning, mostly working with R, Python, SQL and Julia.
 
 Currently exploring optimization methods and computational mathematics.
 
 ## Tech
 
 `R` · `Python` · `SQL` · `Julia`
-
-## Currently exploring
-
-`Optimization` · `Computational Mathematics` · `Machine Learning` · `Data Visualization`
 
 ## Let's Connect 👋
 
